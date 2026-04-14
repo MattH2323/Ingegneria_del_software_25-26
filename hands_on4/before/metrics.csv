@@ -1,0 +1,79 @@
+Kind,Name,MaxCyclomatic,Cyclomatic,RatioCommentToCode,CountLine
+File,"AuthController.java",5,,"0,00",105
+File,"AuthServiceApplication.java",1,,"0,00",11
+Unknown Annotation,"DeleteMapping",,,"0,00",
+Unknown Annotation,"GetMapping",,,"0,00",
+Unknown Annotation,"PathVariable",,,"0,00",
+Unknown Annotation,"PostMapping",,,"0,00",
+Unknown Annotation,"PutMapping",,,"0,00",
+Unknown Annotation,"RequestBody",,,"0,00",
+Unknown Annotation,"RestController",,,"0,00",
+File,"UserFlow.java",5,,"0,08",76
+File,"app.h",0,,"0,25",17
+File,"auth.c",16,,"0,01",187
+File,"auth.c.func-c.html",0,0,"0,00",145
+File,"auth.c.func.html",0,0,"0,00",145
+File,"auth.c.gcov.html",0,0,"0,00",263
+File,"auth.h",0,,"0,33",16
+Function,"auth_add",,7,"0,00",21
+Function,"auth_change_password",,2,"0,00",5
+Function,"auth_check",,9,"0,00",20
+Function,"auth_delete",,2,"0,00",5
+Function,"auth_init",,3,"0,00",10
+Function,"auth_rename_user",,4,"0,00",15
+Function,"cancella_utente",,3,"0,14",15
+Package,"com",0,,"0,00",0
+Package,"com.example",0,,"0,00",0
+Package,"com.example.auth",5,,"0,00",116
+Public Class,"com.example.auth.AuthController",5,,"0,00",94
+Public Static Class,"com.example.auth.AuthController.CreateUserRequest",0,,"0,00",4
+Public Static Class,"com.example.auth.AuthController.UpdateUserRequest",0,,"0,00",4
+Public Static Class,"com.example.auth.AuthController.User",1,,"0,00",10
+Public Constructor,"com.example.auth.AuthController.User.User",,1,"0,00",1
+Public Constructor,"com.example.auth.AuthController.User.User",,1,"0,00",4
+Public Method,"com.example.auth.AuthController.create",,3,"0,00",11
+Public Method,"com.example.auth.AuthController.delete",,2,"0,00",7
+Public Method,"com.example.auth.AuthController.get",,1,"0,00",4
+Public Method,"com.example.auth.AuthController.health",,1,"0,00",4
+Public Method,"com.example.auth.AuthController.list",,1,"0,00",4
+Private Method,"com.example.auth.AuthController.toList",,2,"0,00",8
+Lambda Method,"com.example.auth.AuthController.toList.(lambda_expr_1)",,1,"0,00",1
+Private Method,"com.example.auth.AuthController.toUser",,2,"0,00",5
+Public Method,"com.example.auth.AuthController.update",,5,"0,00",18
+Public Class,"com.example.auth.AuthServiceApplication",1,,"0,00",5
+Public Static Method,"com.example.auth.AuthServiceApplication.main",,1,"0,00",3
+Package,"com.example.client",5,,"0,08",76
+Public Class,"com.example.client.UserFlow",5,,"0,09",69
+Public Static Method,"com.example.client.UserFlow.main",,1,"0,56",17
+Private Static Method,"com.example.client.UserFlow.readBody",,5,"0,00",17
+Private Static Method,"com.example.client.UserFlow.request",,3,"0,00",30
+File,"config.h",0,,"0,00",4
+Function,"crea_utente",,3,"0,10",24
+Static Function,"ct_str_eq",,5,"0,00",10
+Function,"demo_comment_mix",,1,"0,86",27
+Function,"demo_ub",,2,"0,00",12
+Function,"demo_unspecified",,1,"0,00",6
+Function,"effettua_login",,4,"0,00",20
+Static Function,"f_side",,1,"0,00",1
+Static Function,"find_user",,5,"0,00",20
+Static Function,"g_side",,1,"0,00",1
+File,"gcov.css",0,0,"0,00",1073
+File,"index-sort-f.html",0,0,"0,00",105
+File,"index-sort-f.html",0,0,"0,00",117
+File,"index-sort-l.html",0,0,"0,00",105
+File,"index-sort-l.html",0,0,"0,00",117
+File,"index.html",0,0,"0,00",105
+File,"index.html",0,0,"0,00",117
+Function,"main",,15,"0,04",58
+File,"main.c",71,,"0,07",354
+File,"main.c.func-c.html",0,0,"0,00",152
+File,"main.c.func.html",0,0,"0,00",152
+File,"main.c.gcov.html",0,0,"0,00",430
+Function,"modifica_utente",,71,"0,00",152
+Unknown Annotation,"org.springframework.boot.autoconfigure.SpringBootApplication",,,"0,00",
+File,"pom.xml",0,0,"0,03",42
+File,"pom.xml",0,0,"0,00",26
+File,"pthread_compat.h",0,,"0,00",48
+Function,"read_line",,3,"0,00",10
+Static Function,"rewrite_db_skip_or_replace",,16,"0,02",60
+Static Function,"trim_nl",,2,"0,00",4
