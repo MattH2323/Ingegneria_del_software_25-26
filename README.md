@@ -26,3 +26,4 @@ Repository created in order to track the activities related to the software engi
     - `violation_count_graphic.png` : rappresentazione grafica dell'evoluzione del numero di violazioni
 
 - `<hands_on5/>` :
+        - `AuthController.java` : report che dettaglia lo scrum process con l'evoluzione del product backlog.
